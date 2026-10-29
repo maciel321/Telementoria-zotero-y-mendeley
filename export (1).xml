@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <records>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Ludeña-Poma, Jorge
+          </author>
+          <author>
+            Rojas-Gallegos, Sara
+          </author>
+          <author>
+            Solano-Ortiz, Leslye
+          </author>
+          <author>
+            Castro-Chavez, Yanira
+          </author>
+          <author>
+            Chahua-Borda, Diana
+          </author>
+          <author>
+            Ludeña-Poma, Janeth
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Influence of resistance to use, perceived ease of use, perceived usefulness, and facilitating conditions in the intention to use telemedicine in Peru</title>
+      </titles>
+      <dates>
+        <year>2024</year>
+          <pub-dates>
+            <date>6</date>
+          </pub-dates>
+      </dates>
+      <volume>71</volume>
+      <pages>1-11</pages>
+      <electronic-resource-num>10.3897&#x2F;pharmacia.71.e118004</electronic-resource-num>
+      <abstract>&lt;p&gt;Telemedicine revolutionizes medical care by providing remote access to healthcare services, improving efficiency, reducing geographic barriers and providing timely, life-saving care for patients. Current research aims to evaluate the influence of resistance to use, facilitators to use, perceived ease of use and perceived usefulness of telemedicine on the intention to use telemedicine by citizens of Peru. The study collected responses from individuals in Peru through an online survey, and the data was analyzed by multivariate statistical techniques. The results showed that perceived ease of use had a positive and significant effect on perceived usefulness; then, perceived ease of use had a positive and significant effect on the intention to use telemedicine. Also, resistance to use did not have a significant effect on intention to use telemedicine. The bootstrapping analysis showed that the effects between the variables were statistically significant. The outcomes obtained may provide ideas to healthcare managers in public and private sectors for planning health programs based in telemedicine and can make diagnosis and treatments with remote patients.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Pharmacia</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Soler i Fábregas, Marc
+          </author>
+          <author>
+            Camps i Fondevila, Berenguer
+          </author>
+          <author>
+            Serratusell i Miró, Gerard
+          </author>
+          <author>
+            Martin-Fumadó, Carles
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>El inestable equilibrio de la demografía médica en Barcelona (2006-2020). La migración de médicos egresados en países extracomunitarios</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>159</volume>
+      <pages>299-303</pages>
+      <issue>6</issue>
+      <electronic-resource-num>10.1016&#x2F;j.medcli.2022.04.012</electronic-resource-num>
+      <periodical><full-title>Medicina Clínica</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Bui
+          </author>
+          <author>
+            Barnett
+          </author>
+          <author>
+            Hoang
+          </author>
+          <author>
+            Chinthammit
+          </author>
+          <author>
+            Vu
+          </author>
+          <author>
+            Tran
+          </author>
+          <author>
+            Hoang
+          </author>
+          <author>
+            Do
+          </author>
+          <author>
+            Tran
+          </author>
+          <author>
+            Vu
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Usability of an augmented reality tele-mentoring system for medical specialists and junior doctors operating in rural and regional healthcare settings in Vietnam</title>
+      </titles>
+      <dates>
+        <year>2026</year>
+          <pub-dates>
+            <date>7</date>
+          </pub-dates>
+      </dates>
+      <electronic-resource-num>10.22605&#x2F;RRH9969</electronic-resource-num>
+      <periodical><full-title>Rural and Remote Health</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Mazandarani, Mahdi
+          </author>
+          <author>
+            Lashkarbolouk, Narges
+          </author>
+          <author>
+            Hashemi, Mitra
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Evaluation of Awareness and Attitude of Telemedicine among Primary Healthcare Workers in Deprived Area Health Centers</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>2023</volume>
+      <pages>1-7</pages>
+      <electronic-resource-num>10.1155&#x2F;2023&#x2F;5572286</electronic-resource-num>
+      <abstract>&lt;p&gt; Background. Telemedicine has the potential to make healthcare more efficient, organized, and available and is a more beneficial technology that can ease preventive treatment and improve long-term health management. This is especially essential for those who face financial or regional reasons to get quality treatment. Telemedicine in Iran is a new medical field and a noble way to access medical facilities for populations living in deprived areas, and the primary healthcare workers in these deprived medical centers are the implementers of telemedicine in those areas; we aimed to investigate the awareness and attitude towards telemedicine among all the healthcare workers in these centers. Method. This is a descriptive cross-sectional study at the Health Centers of Raz County in North Khorasan Province, Iran, and 149 healthcare workers were included. For collecting information, we used a questionnaire that consisted of two parts. The first part contains the demographic data of health care workers, and the second part includes the 5-point Likert scale questionnaire (questions on telemedicine awareness, attitude, and self-report readiness). Result. Most participants (51%) were male, and 69.8% were married. The most frequent sources of information about telemedicine are colleagues (40.3%), continuing education (24.7%), and social media and the internet (10.1%). Awareness did not significantly relate to gender, age, marital status, or work experience, but awareness of physicians and midwives is higher than other groups ( &lt;inline-formula&gt; &lt;math id&#x3D;&quot;M1&quot;&gt; &lt;mi&gt;p&lt;&#x2F;mi&gt; &lt;mo&gt;&amp;lt;&lt;&#x2F;mo&gt; &lt;mn&gt;0.05&lt;&#x2F;mn&gt; &lt;&#x2F;math&gt; &lt;&#x2F;inline-formula&gt; ). The awareness of healthcare workers using continuing education, articles, workshops, or conferences was significantly higher ( &lt;inline-formula&gt; &lt;math id&#x3D;&quot;M2&quot;&gt; &lt;mi&gt;p&lt;&#x2F;mi&gt; &lt;mo&gt;&amp;lt;&lt;&#x2F;mo&gt; &lt;mn&gt;0.05&lt;&#x2F;mn&gt; &lt;&#x2F;math&gt; &lt;&#x2F;inline-formula&gt; ). The attitude scores for most questions are above 3.4 and reflect a positive attitude about telemedicine. Attitudes did not show a significant relation to gender, age, marital status, or work experience. Conclusion. Using telemedicine in developing countries, rural or urban areas have a high potential to improve epidemiological investigations, disease control, and clinical case management. Providing healthcare professionals with more information about new technologies in healthcare, such as telemedicine, can help get a more realistic picture of their perceptions. &lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>International Journal of Telemedicine and Applications</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Anticona Huaynate, Cynthia Fiorella
+          </author>
+          <author>
+            Pajuelo Travezaño, Monica Jehnny
+          </author>
+          <author>
+            Correa, Malena
+          </author>
+          <author>
+            Mayta Malpartida, Holger
+          </author>
+          <author>
+            Oberhelman, Richard
+          </author>
+          <author>
+            Murphy, Laura L
+          </author>
+          <author>
+            Paz-Soldan, Valerie A
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Diagnostics barriers and innovations in rural areas: insights from junior medical doctors on the frontlines of rural care in Peru</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+          <pub-dates>
+            <date>6</date>
+          </pub-dates>
+      </dates>
+      <volume>15</volume>
+      <pages>454</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1186&#x2F;s12913-015-1114-7</electronic-resource-num>
+      <periodical><full-title>BMC Health Services Research</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Maganty
+          </author>
+          <author>
+            Byrnes
+          </author>
+          <author>
+            Hamm
+          </author>
+          <author>
+            Wasilko
+          </author>
+          <author>
+            Sabik
+          </author>
+          <author>
+            Davies
+          </author>
+          <author>
+            Jacobs
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Barriers to rural health care from the provider perspective</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>5</date>
+          </pub-dates>
+      </dates>
+      <electronic-resource-num>10.22605&#x2F;RRH7769</electronic-resource-num>
+      <periodical><full-title>Rural and Remote Health</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+  </records>
+</xml>
